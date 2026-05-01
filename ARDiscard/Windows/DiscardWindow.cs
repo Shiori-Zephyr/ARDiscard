@@ -10,6 +10,7 @@ using Dalamud.Interface.Utility;
 using Dalamud.Plugin.Services;
 using Dalamud.Bindings.ImGui;
 using LLib.ImGui;
+using Dalamud.Interface.Windowing;
 
 namespace ARDiscard.Windows;
 
